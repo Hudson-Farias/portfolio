@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@tailwind utilities;
+
+
+html,
+body {
+  @apply bg-white dark:bg-slate-950;
+
+  @media (prefers-color-scheme: dark) {
+    color-scheme: dark;
+  }
+}
+
+/* html {
+  scroll-behavior: smooth;
+} */
