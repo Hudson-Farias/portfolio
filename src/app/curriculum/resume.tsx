@@ -65,7 +65,7 @@ const Resume = () => (
 
       <View style={styles.section}>
         <Text style={styles.header}>Experiência Profissional</Text>
-        <Text style={styles.experience}>HUBFY | JUN 2022 - ATUAL</Text>
+        <Text style={styles.experience}>HUBFY | JUN 2022 - MAR 2025</Text>
         <Text style={styles.experienceRole}>Tech Leader - Fullstack Engineer</Text>
 
         <Text style={styles.text}>Atuando como Fullstack Engineer Pleno e Tech Leader, mantendo aplicações legadas em Laravel e Slim, além de arquitetar e codificar novas soluções em Next.js, React e FastAPI.</Text>
